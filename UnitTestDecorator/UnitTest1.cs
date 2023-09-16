@@ -1,4 +1,4 @@
-using Decorator;
+﻿using Decorator;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace UnitTestDecorator
@@ -9,7 +9,7 @@ namespace UnitTestDecorator
         [TestMethod]
         public void TestMethod1()
         {
-            BlackCoffee coffeeObject = new BlackCoffee();
+            BlackCoffee coffeeObject = new();
 
             string blackCoffee = coffeeObject.MakeCoffee();
             Assert.AreEqual(blackCoffee, "Black Coffee");
