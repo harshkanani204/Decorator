@@ -25,3 +25,5 @@ We have included unit tests using Microsoft's MSTest framework to ensure the cor
 
 You can use this project as a starting point to understand and implement the Decorator design pattern in your own C# applications. To customize coffee with different decorators, follow the example provided in the unit tests.
 
+## Design
+![UML](./Screenshot%202023-09-16%20234353.png)
