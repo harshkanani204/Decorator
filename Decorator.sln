@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{6BE704FE-7916-4F03-8322-567FA3F612D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{6BE704FE-7916-4F03-8322-567FA3F612D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{79F61B08-AABE-4BEC-828E-20C9C9311052}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestDecorator", "UnitTestDecorator\UnitTestDecorator.csproj", "{E53C818A-FCAD-4E30-9FCE-0B2C0520BEF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{6BE704FE-7916-4F03-8322-567FA3F612D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE704FE-7916-4F03-8322-567FA3F612D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE704FE-7916-4F03-8322-567FA3F612D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{79F61B08-AABE-4BEC-828E-20C9C9311052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79F61B08-AABE-4BEC-828E-20C9C9311052}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79F61B08-AABE-4BEC-828E-20C9C9311052}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79F61B08-AABE-4BEC-828E-20C9C9311052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E53C818A-FCAD-4E30-9FCE-0B2C0520BEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E53C818A-FCAD-4E30-9FCE-0B2C0520BEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E53C818A-FCAD-4E30-9FCE-0B2C0520BEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E53C818A-FCAD-4E30-9FCE-0B2C0520BEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
